@@ -2,7 +2,11 @@
 ### You can call me Shivani 😃
 
 
-- 💻 I'm currently pursuing my Masters in Computer Science at Georgia State University.
+- 💻 I'm currently pursuing Masters in Computer Science at Georgia State University.
+- 📖 My Courses for this semester are Advanced Machine Learning, Secure & Private AI and Web Programming.
+- 👩‍💼 I've previously worked in IBM as a Software Developer.
+- 👩‍🎤 I like Singing and always wanted to sing for a good cause.
+- 👯 We can collaborate on various CS topics if you send a request which includes a good song which you think I need to hear.
 
 <!--
 **ShivaniKolanu/ShivaniKolanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
