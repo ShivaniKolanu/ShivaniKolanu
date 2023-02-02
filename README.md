@@ -1,6 +1,8 @@
 ### Hi there 👋
+### You can call me Shivani 😃
 
-### You can call me Shivani
+
+- 💻 I'm currently pursuing my Masters in Computer Science at Georgia State University.
 
 <!--
 **ShivaniKolanu/ShivaniKolanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
