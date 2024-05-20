@@ -2,8 +2,8 @@
 ### You can call me Shivani 😃
 
 
-- 💻 I'm currently pursuing Masters in Computer Science at Georgia State University.
-- 📖 My Course work for this semester is one credit of my Masters Capstone Project and 4 credits of a course called Privacy-Aware Computing.
+- 💻 I hold Masters in Computer Science Degree from Georgia State University.
+- 👩‍💼 Incoming Associate Application Developer at ADP.
 - 👩‍💼 I've previously worked at IBM as a Software Developer.
 - 👩‍🎤 I like Singing and always wanted to sing for a good cause.
 - 👯 We can collaborate on various CS topics if you send a request which includes a good song which you think I need to hear.
