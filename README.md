@@ -3,7 +3,7 @@
 
 
 - 💻 I hold Masters in Computer Science Degree from Georgia State University.
-- 👩‍💼 Incoming Associate Application Developer at ADP.
+- 👩‍💼 Associate Application Developer at ADP.
 - 👩‍💼 I've previously worked at IBM as a Software Developer.
 - 👩‍🎤 I like Singing and always wanted to sing for a good cause.
 - 👯 We can collaborate on various CS topics if you send a request which includes a good song which you think I need to hear.
